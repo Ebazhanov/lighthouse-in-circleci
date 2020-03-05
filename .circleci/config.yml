@@ -1,0 +1,16 @@
+version: 2.1
+
+orbs:
+  lighthouse-check: foo-software/lighthouse-check@0.0.8
+
+jobs:
+  test:
+    executor: lighthouse-check/default
+    steps:
+      - lighthouse-check/audit:
+          urls: https://www.comatch.com/en/,https://www.comatch.com/de/
+
+workflows:
+  test:
+    jobs:
+      - test
