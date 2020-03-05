@@ -1,6 +1,6 @@
 #### CircleCI [![CircleCI](https://circleci.com/gh/Ebazhanov/lighthouse-in-circleci.svg?style=svg)](https://circleci.com/gh/Ebazhanov/lighthouse-in-circleci)
 
-This repo an example of how to integrate [Lighthouse](developers.google.com/web/tools/lighthouse) with CircleCI
+This repo an example of how to integrate [Lighthouse](https://developers.google.com/web/tools/lighthouse) with CircleCI
 
 > Lighthouse is an open-source, automated tool for improving the quality of web pages.
 >
