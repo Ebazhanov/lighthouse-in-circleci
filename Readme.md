@@ -6,4 +6,4 @@ Based on this [article](https://www.freecodecamp.org/news/how-to-use-lighthouse-
 
 ### Usage 
 - Go to Circleci -> find links under Artifacts tab
-[https://circleci.com/gh/Ebazhanov/lighthouse-in-circleci/2#artifacts/containers/0](https://circleci.com/gh/Ebazhanov/lighthouse-in-circleci/2#artifacts/containers/0)
+[https://circleci.com/lighthouse-in-circleci/2#artifacts/containers/0](https://circleci.com/gh/Ebazhanov/lighthouse-in-circleci/2#artifacts/containers/0)
