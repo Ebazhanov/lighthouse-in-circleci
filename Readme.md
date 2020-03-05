@@ -5,5 +5,5 @@ Based on this [article](https://www.freecodecamp.org/news/how-to-use-lighthouse-
 <img src="https://monosnap.com/image/kY6xaS1DM908p42Ei6KMQf75JJU61M"/>
 
 ### Usage 
-- Go to Circleci -> find links under Artifacts tab
+- Go to Circleci -> Find links `*.html` report in `Artifacts` tab
 [https://circleci.com/lighthouse-in-circleci/2#artifacts/containers/0](https://circleci.com/gh/Ebazhanov/lighthouse-in-circleci/2#artifacts/containers/0)
