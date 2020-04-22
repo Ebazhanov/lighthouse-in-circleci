@@ -3,7 +3,11 @@
 This repo an example of how to integrate [Lighthouse](https://developers.google.com/web/tools/lighthouse) with CircleCI
 
 > Lighthouse is an open-source, automated tool for improving the quality of web pages.
->
+
+### Examples of report:
+- [github](https://13-245155682-gh.circle-artifacts.com/0/tmp/artifacts/lighthouse-report-1583481796429.html)
+- [linkedin](https://13-245155682-gh.circle-artifacts.com/0/tmp/artifacts/lighthouse-report-1583481785168.html)
+
 <img src="https://monosnap.com/image/jOKvdPKUvb2wol4HeEfPXPC3l70Qe8"/>
 
 ### References
